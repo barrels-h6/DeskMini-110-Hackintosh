@@ -1,6 +1,6 @@
 # Hackintosh for DeskMini 110, QNVH(i7-8750H ES), AC3168, using Opencore and Support macOS Big Sur  
 
-![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/master/screenshots/finder.png?raw=true)  
+![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/main/screenshots/finder.png?raw=true)  
 
 ---
 
@@ -115,11 +115,11 @@ Please look at [Hackintosh-Asus-H110T-QNVH-I7-8850H-DW1820A-OC](https://github.c
 
 # Screenshot/系统展示
 
-![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/master/screenshots/finder.png?raw=true)  
+![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/main/screenshots/finder.png?raw=true)  
 
-![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/master/screenshots/wifi.png?raw=true)  
+![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/main/screenshots/wifi.png?raw=true)  
 
-![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/master/screenshots/bluetooth.png?raw=true)  
+![image](https://github.com/dfc643/DeskMini-110-Hackintosh/blob/main/screenshots/bluetooth.png?raw=true)  
 
 ---
 # Reference/参考
